@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Upload, MessageSquare, User, Key, RefreshCw, Send, Settings, Sparkles, AlertCircle, Trash2 } from 'lucide-react';
+import { Upload, MessageSquare, Key, RefreshCw, Send, Sparkles, AlertCircle, Trash2 } from 'lucide-react';
 
 /**
  * AI Companion - WhatsApp Persona Cloner
